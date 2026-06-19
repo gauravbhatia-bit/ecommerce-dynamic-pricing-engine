@@ -1,0 +1,14 @@
+feature,importance
+competitor_price,0.622
+price,0.261
+unit_cost,0.089
+elasticity,0.008
+cat_enc,0.007
+stock_level,0.005
+seg_enc,0.004
+RFM_score,0.002
+margin_pct,0.001
+days_on_platform,0.001
+day_of_week,0.0
+review_score,0.0
+quantity_sold,0.0

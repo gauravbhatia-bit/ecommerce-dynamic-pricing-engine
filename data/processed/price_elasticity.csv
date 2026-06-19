@@ -1,0 +1,9 @@
+category,elasticity,r_squared,n_obs,price_sensitivity
+Fashion,-2.126,0.536,2700,Elastic (price-sensitive)
+Toys,-1.921,0.476,1200,Elastic (price-sensitive)
+Electronics,-1.823,0.477,3000,Elastic (price-sensitive)
+Sports,-1.518,0.385,1800,Elastic (price-sensitive)
+Home & Kitchen,-1.215,0.296,2250,Elastic (price-sensitive)
+Beauty,-0.802,0.146,1800,Inelastic (price-insensitive)
+Books,-0.601,0.085,1200,Inelastic (price-insensitive)
+Food & Beverages,-0.499,0.061,1050,Inelastic (price-insensitive)
